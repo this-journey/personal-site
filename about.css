@@ -1,0 +1,27 @@
+article {
+    text-align: left;
+    background-color: rgb(234, 240, 237);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    border: solid white;
+    display: flex;
+}
+
+article img {
+    max-width: 130px;
+    max-height: 100px;
+    margin: 4px;
+    
+}
+
+.h2 {
+    text-align: justify;
+    padding: .25em;
+    background-color: rgb(234, 240, 237);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    border: solid white;
+}
+

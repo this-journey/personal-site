@@ -1,0 +1,24 @@
+#welcome {
+    font-family: 'Dancing Script', cursive;
+    font-size: 86px;
+    text-align: center;
+}
+
+
+.main-h3 {
+    text-align: center;
+    background-color: rgb(234, 240, 237);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    border: solid white;
+}
+
+.main-quote {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-family: 'Dancing Script';
+}

@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+header {
+    position: fixed;
+    top: 0;
+    background-color: #dbeee5;
+    width: 100%;
+}
+
+.name {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 78px;
+    float: left;
+}
+
+.pages {
+
+    font-size: 30px;
+    float: right;
+}
+nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(134, 134, 134)
+}
+
+li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+#current {
+    text-decoration: underline;
+}
+
+body {
+    width: auto;
+    height: auto;
+    margin: 40px auto;
+}
+
+main {
+    background-image: url(/course-work/project-1/personal-site/personal\ site\ photos/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 140px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #dbeee5;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    width: 100%;
+}
+
+footer img {
+    max-width: 50px;
+    max-height: 50px;
+}

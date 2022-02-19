@@ -1,0 +1,48 @@
+body {
+    overflow: auto;
+}
+
+.header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+    text-align: left;
+    border-bottom: solid black 1px;
+    margin: 5px;
+}
+
+p {
+    display: inline-flex;
+}
+
+#article1 {
+    background-color: whitesmoke;
+    font-family: 'Open-Sans', sans-serif;
+    text-align: left;
+    margin: 25px;
+    padding: 10px;
+}
+
+#article2 {
+    background-color: whitesmoke;
+    font-family: 'Open-Sans', sans-serif;
+    text-align: left;
+    margin: 25px;
+    padding: 10px;
+}
+
+#article3 {
+    background-color: whitesmoke;
+    font-family: 'Open-Sans', sans-serif;
+    text-align: left;
+    margin: 25px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    border-bottom: solid black .5px;
+}
+
+img {
+    margin: 0px 10px 0px 10px;
+}
